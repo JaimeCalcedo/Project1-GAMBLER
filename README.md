@@ -1,5 +1,5 @@
 # BLACKJACK GAME
-![][https://www.bullmarketlatam.cl/wp-content/uploads/2020/03/blackjack.jpg]
+
 ### INTRO
 While the popularity of Blackjack dates from World War I, its roots go back to the 1760s in France, where it is called Vingt-et-Un (French for 21). Today, Blackjack is the one card game that can be found in every gambling casino. The standard 52-card pack is used. 
 
